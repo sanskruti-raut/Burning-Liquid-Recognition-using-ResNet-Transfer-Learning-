@@ -1,4 +1,4 @@
-# Burning-Liquid-Recognition-using-ResNet-Transfer-Learning-
+# Flame-Recognition-using-ResNet-Transfer-Learning-
 This repository contains code for a flame classification model that can classify images of flames into three categories: ethanol, pentane, and propanol.
 
 # Data Preprocessing
